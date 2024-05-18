@@ -8,7 +8,7 @@ Shoutbox.net is a powerful API that enables developers to send transactional ema
 
 ## What is Resend?
 
-Resend is another email API service that allows developers to send emails programmatically. It provides a straightforward API for sending emails with basic features like subject, text, and recipient management.
+Resend is another email API service that allows developers to send emails programmatically. It provides a straightforward API for sending emails.
 
 ## Seamless Switch from Resend to Shoutbox.net
 
